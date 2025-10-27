@@ -21,4 +21,5 @@ gcc -std=c11 interrupt_pthread_ascii.c -o interrupt_pthread_ascii.exe -lpthread
 ```
 
 ## Output of Interrupt Controller
-<img width="878" height="576" alt="Screenshot 2025-10-26 230620" src="https://github.com/user-attachments/assets/a3d7f38e-ecf4-4ba4-83bf-cb88b03adda2" />
+<img width="1068" height="681" alt="Screenshot 2025-10-27 122513" src="https://github.com/user-attachments/assets/18c98bc1-50c5-4161-b264-59c6a9c3ab6b" />
+
