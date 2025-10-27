@@ -1,4 +1,4 @@
-# IS2101-Interrupt-Controller-NNM24IS191
+# IS2101-InterruptSim-NNM24IS191
 To simulate the working of an Interrupt Controller and understand how priorities and masking affect device handling in a computer system, using real-world programming logic and event simulation.
 
 ## Features
